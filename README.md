@@ -77,11 +77,8 @@ Teams aiming to improve win percentage should prioritize:
 - Future analyses could incorporate game-level injury reports, additional in-game metrics (turnover differential, yards per play, third-down conversions), non-linear models, or multi-season data for more stable estimates.
 
 ## Files included
-- `Group_006_Project.pdf` — Full paper including data appendix with summary statistics, figures, and regression output (Figures 1–30)
-- `data.xlsx` — Spreadsheet containing the dataset used for the analysis (please confirm the exact filename if it differs)
+- `Group 006 Project.pdf` — Full paper including data appendix with summary statistics, figures, and regression output (Figures 1–30)
+- `STATS GAME DATA - FINAL.xlsx` — Spreadsheet containing the dataset used for the analysis (please confirm the exact filename if it differs)
 
 ## Citation
 Gifford, M., & Bayrak, T. (2023). A predictive analytics model for forecasting outcomes in the National Football League games using decision tree and logistic regression. Decision Analytics Journal, 8, 100296. https://doi.org/10.1016/j.dajour.2023.100296
-
-## Contact
-- Micah Green — GitHub: https://github.com/micahjacobgreen77
